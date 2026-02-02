@@ -61,6 +61,8 @@ The dataset structure closely resembles real-world retail sales data, making it 
 # 📸 Dashboard Preview
 Below is a preview of the Sales & Profit Dashboard created using Excel.
 [![Sales & Profit Dashboard](https://github.com/PoojaNamdev/Sales-Profit-Dashboard-Excel/blob/main/dashboard%20preview1.png)
+[![Sales & Profit Dashboard](https://github.com/PoojaNamdev/Sales-Profit-Dashboard-Excel/blob/main/dashboard%20preview2.png)
+
 
 # 🎯 Key Learnings
 - Strengthened Excel skills for data analysis and reporting  
