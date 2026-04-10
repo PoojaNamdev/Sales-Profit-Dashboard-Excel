@@ -73,6 +73,6 @@ Below is a preview of the Sales & Profit Dashboard created using Excel.
 
 # 👩‍💻 Author
 Pooja Namdev
-LinkedIn: https://www.linkedin.com/in/pooja-namdev-12297a289  
+LinkedIn: https://www.linkedin.com/in/poojanamdevofficial/
 
 ⭐ If you found this project useful, feel free to star the repository!
